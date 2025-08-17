@@ -1,6 +1,3 @@
-# PowerBI-WeatherDashboard
-Weather &amp; Air Quality Dashboard in Power BI using WeatherAPI
-
 # Weather & Air Quality Dashboard 🌦️
 
 This is a Power BI dashboard that uses data from [WeatherAPI](https://www.weatherapi.com/) to show:
